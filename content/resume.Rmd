@@ -1,0 +1,10 @@
+---
+title: Resume
+author: Brian Powell
+date: '2020-10-11'
+slug: resume
+categories: []
+tags: []
+---
+
+Yo

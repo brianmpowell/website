@@ -1,0 +1,14 @@
+---
+title: ""
+author: Brian Powell
+date: '2020-10-11'
+slug: resume
+categories: []
+tags: []
+---
+
+fun stuff about me
+
+![](headshot_bw_cropped.png){ width=50% }
+
+

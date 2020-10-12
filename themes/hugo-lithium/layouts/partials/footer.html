@@ -1,0 +1,17 @@
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="{{ .Site.Params.personalUrl | relURL }}" class="footer-personal-url">Brian Powell</a>
+          </li>
+          <li>
+            <a href="https://bookdown.org/yihui/blogdown/" class="footer-links-kudos">Made with <img src="{{ "images/blogdown_logo.png" | relURL }}" alt="Img link to blogdown website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    {{ partial "footer_highlightjs" . }}
+    {{ partial "footer_mathjax" . }}
+    {{ template "_internal/google_analytics.html" . }}
+  </body>
+</html>
