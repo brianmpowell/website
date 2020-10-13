@@ -9,6 +9,6 @@ tags: []
 
 fun stuff about me
 
-![](headshot_bw_cropped.png){ width=20% }
+
 
 
