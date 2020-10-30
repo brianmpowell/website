@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://brianmpowell.com"
 languageCode = "en-us"
 title = "Brian Powell's Website"
 theme = "hugo-lithium"
