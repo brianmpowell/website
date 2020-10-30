@@ -11,7 +11,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
 
 [[menu.main]]
     name = "Resume"
-    url = "Resume_Oct2020_web.pdf"
+    url = "./Resume_Oct2020_web.pdf"
     weight = 2
 [[menu.main]]
     name = "Projects"
