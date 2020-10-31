@@ -1,13 +1,16 @@
 ---
-title: ""
+title: "Brian Powell"
 author: Brian Powell
 date: '2020-10-11'
-slug: resume
+slug: about
 categories: []
 tags: []
 ---
 
-fun stuff about me
+I'm a second year Statistics Master's student at [Stanford](https://statistics.stanford.edu). I studied math and CS during my undergrad at [McGill](https://www.mcgill.ca/mathstat/), where I was a research assistant at [.txtLAB@McGill](https://txtlab.org). 
+
+At .txtLAB, I applied data science techniques to study everything from topic probabilities in humanities journals to inequality in the NBA draft. New new
+
 
 
 
