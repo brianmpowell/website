@@ -13,12 +13,15 @@ Inspired by research investigating institutional inequality in academic publishi
 
 ### Home Advantage and NBA Free Throw Accuracy
 
+I had the pleasure of taking [Susan Athey](https://athey.people.stanford.edu) and [Stefan Wager](https://web.stanford.edu/~swager/)'s course on Machine Learning and Causal Inference this past Spring. For the final project, I co-wrote an analysis of the causal effect of home advantage on NBA free throw accuracy. We estimated average and heterogeneous treatment effects using AIPW, Honest Causal Trees, Causal Forests, and meta-learners. Once we controlled for confounders such as travel effects, we found little significant evidence that the away team's lower free throw percentages are caused by playing in front of opposing fans. Two interesting cases of heterogeneity: the visiting team's free throw accuracy drops (1) when they are getting blown out and (2) when the game is nearly over.
+
 ### True Prevalence of Nationalistic Language in 21C Fiction
 
-
+Do "minor" literatures have to be more nationalistic to be successful? [Andrew Piper](http://piperlab.mcgill.ca/about.html) and I worked on estimating the true prevalence of national place mentions using Bayesian methods in Stan based on [this paper](https://pubmed.ncbi.nlm.nih.gov/18346298/). This approach can account for the sensitivity and sensitivity of an NER platform and can be employed for both binomial and hypergeometric sampling procedures.
 
 ### Topic Probabilities in Academic Journals
 
+Professor Piper and I investigated the rise and fall of topics (e.g. cultural studies, gender studies, race) in humanities journals since the 1950s. Some of these topics' rates of appearance in academic articles can be well-modeled by sigmoid and multi-linear curves since the life-cycle for relevance often follows one of two simple life-cycles: (1) obscurity, rise, and saturation; (2) prominence, fall, and dissipation. Here's what the topic probabilities for words related to "cultural studies" [looks like]("https://brianmpowell.com/Cultural_Studies_Sigmoid.pdf").
 
 ### Shiny App to Randomize Movie Selection
 
