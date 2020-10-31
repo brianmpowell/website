@@ -70,6 +70,7 @@ code {
   padding: 0;
   font-size: 14px;
   list-style: none;
+  transition: transform 150ms ease-out;
 }
 
 .nav-links li {
@@ -88,13 +89,14 @@ code {
 
 .nav-links a:hover {
   color: #000;
+  transform: scale(1.1);
 }
 
 .content {
   max-width: 700px;
   margin: 40px auto 10px;
   padding: 0 15px;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.7;
   color: #333;
 }
@@ -134,7 +136,7 @@ code {
 .article-content a:hover,
 .article-content a:focus {
   color: #222;
-  border-bottom: 2px solid #222;
+  border-bottom: 1px solid #222;
 }
 
 .article-content hr {
@@ -266,12 +268,12 @@ code {
   }
 
   .content {
-    font-size: 19px;
+    font-size: 14px;
     line-height: 1.8;
   }
 
   .highlight {
-    font-size: 16px;
+    font-size: 14px;
     margin: 40px -20px;
   }
 
@@ -284,7 +286,7 @@ code {
   }
 
   .archive-item-date {
-    font-size: 19px;
+    font-size: 14px;
     text-align: right;
     float: right;
   }

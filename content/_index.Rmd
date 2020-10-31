@@ -9,9 +9,9 @@ tags: []
 
 I'm a second year Statistics Master's student at [Stanford](https://statistics.stanford.edu). I studied math and CS during my undergrad at [McGill](https://www.mcgill.ca/mathstat/about-us), where I was a research assistant at [.txtLAB@McGill](https://txtlab.org). 
 
-At .txtLAB, I applied data science techniques to study everything from topic probabilities in humanities journals to inequality in the NBA draft.
+At .txtLAB, I applied data science techniques to study everything from topic probabilities in humanities journals to [inequality in the NBA draft](https://txtlab.org/wp-content/uploads/2020/02/Unlevel_Fields_2020.pdf).
 
-
+In my spare time, I enjoy playing soccer and ultimate frisbee, supporting Liverpool FC, and listening to jazz music.
 
 
 
