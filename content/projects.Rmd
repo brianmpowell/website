@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-### Inequality in the NBA draft
+### Inequality in the NBA Draft
 
 Inspired by research investigating institutional inequality in academic publishing and hiring, I wrote a [report](https://txtlab.org/wp-content/uploads/2020/02/Unlevel_Fields_2020.pdf) on the distribution of U.S. colleges in the NBA draft. I discovered that the proportion of picks from the top 10 schools has steadily increased since the one-and-done rule came into effect in 2006. I also investigated if attending a blue blood translates to higher performance at the professional level. The short answer is that it may matter somewhat, but not for the most talented players.
 
@@ -15,11 +15,11 @@ Inspired by research investigating institutional inequality in academic publishi
 
 I had the pleasure of taking [Susan Athey](https://athey.people.stanford.edu) and [Stefan Wager](https://web.stanford.edu/~swager/)'s course on Machine Learning and Causal Inference this past Spring. For the final project, I co-wrote an analysis of the causal effect of home advantage on NBA free throw accuracy. We estimated average and heterogeneous treatment effects using AIPW, Honest Causal Trees, Causal Forests, and meta-learners. Once we controlled for confounders such as travel effects, we found little significant evidence that the away team's lower free throw percentages are caused by playing in front of opposing fans. Two interesting cases of heterogeneity: the visiting team's free throw accuracy drops (1) when they are getting blown out and (2) when the game is nearly over.
 
-### True Prevalence of Nationalistic Language in 21C Fiction
+### Estimating True Prevalence of Nationalistic Language in 21C Fiction
 
-Do "minor" literatures have to be more nationalistic to be successful? [Andrew Piper](http://piperlab.mcgill.ca/about.html) and I worked on estimating the true prevalence of national place mentions using Bayesian methods in Stan based on [this paper](https://pubmed.ncbi.nlm.nih.gov/18346298/). This approach can account for the sensitivity and sensitivity of an NER platform and can be employed for both binomial and hypergeometric sampling procedures.
+Do "minor" literatures have to be more nationalistic to be successful? [Andrew Piper](http://piperlab.mcgill.ca/about.html) and I worked on estimating the true prevalence of national place mentions using Bayesian methods in Stan based on [this paper](https://pubmed.ncbi.nlm.nih.gov/18346298/). This approach can account for the sensitivity and specificity of an NER platform and can be employed for both binomial and hypergeometric sampling procedures.
 
-### Topic Probabilities in Academic Journals
+### Modeling Topic Probabilities in Academic Journals
 
 Andrew Piper and I also investigated the rise and fall of topics (e.g. cultural studies, gender studies, race) in humanities journals since the 1950s. Some of these topics' rates of appearance in academic articles can be well-modeled by sigmoid and multi-linear curves since the life-cycle for relevance often follows one of two simple life-cycles: (1) obscurity, rise, and saturation; (2) prominence, fall, and dissipation. Here's what the rise of topic probabilities for words related to "cultural studies" [looks like](https://brianmpowell.com/CulturalStudiesSigmoid.pdf), modeled by a sigmoid curve. Here's Professor Piper's blog post about some [related work](https://txtlab.org/2018/11/more-gender-trouble/) on the decline of gender studies in the last 20 years.
 
@@ -28,7 +28,7 @@ Andrew Piper and I also investigated the rise and fall of topics (e.g. cultural 
 At the beginning of the pandemic, I soon realized I'd be watching more movies than usual. To make the selection process easier, I developed a simple Shiny app to narrow down a list of 100 bucket list films to 3 options based on streaming service and release date. Here's the (possibly broken) [link](https://brian-powell.shinyapps.io/top100movies/).
 
 
-### Bob Dylan: Nobel Prize-Winning Poet
+### Comparing Bob Dylan’s Song Lyrics to Prize-Winning Poetry
 
 Bob Dylan was a surprise (and controversial) pick for the 2016 Nobel Prize in literature. After scraping all his lyrics, I compared their word frequency distributions to those of other prize-winning poets, including fellow laureates Yeats, Eliot, and Heaney, as well as [Dylan's pal](https://www.youtube.com/watch?v=MGxjIBEZvx0) Allen Ginsberg. Turns out "Visions of Johanna" and "Desolation Row" hold their own among 20C verse, however most of Dylan's diction differs from traditional poetic lexicon. (I'll blame his 80's output, especially [this](https://www.bobdylan.com/songs/everything-broken/).) My analysis can be found [here](https://brianmpowell.com/Dylan_Poetry_Paper.pdf).
 
