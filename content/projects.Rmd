@@ -21,7 +21,7 @@ Do "minor" literatures have to be more nationalistic to be successful? [Andrew P
 
 ### Topic Probabilities in Academic Journals
 
-Professor Piper and I investigated the rise and fall of topics (e.g. cultural studies, gender studies, race) in humanities journals since the 1950s. Some of these topics' rates of appearance in academic articles can be well-modeled by sigmoid and multi-linear curves since the life-cycle for relevance often follows one of two simple life-cycles: (1) obscurity, rise, and saturation; (2) prominence, fall, and dissipation. Here's what the topic probabilities for words related to "cultural studies" [looks like]("https://brianmpowell.com/Cultural_Studies_Sigmoid.pdf").
+Professor Piper and I investigated the rise and fall of topics (e.g. cultural studies, gender studies, race) in humanities journals since the 1950s. Some of these topics' rates of appearance in academic articles can be well-modeled by sigmoid and multi-linear curves since the life-cycle for relevance often follows one of two simple life-cycles: (1) obscurity, rise, and saturation; (2) prominence, fall, and dissipation. Here's what the topic probabilities for words related to "cultural studies" [looks like]("https://brianmpowell.com/Cultural_Studies_Sigmoid.pdf"). Here's a blog post by Professor Piper on some [related work](https://txtlab.org/2018/11/more-gender-trouble/) on gender studies.
 
 ### Shiny App to Randomize Movie Selection
 
